@@ -141,7 +141,7 @@ module.exports = {
         noMask:"Please open it using the blockchain DApp browser.",
         accredit:"Authorization succeeded!",
         time:"Countdown to dividend",
-        yu:"Enter a USDT multiple of 100",
+        yu:"Enter a USDT multiple of 1000",
         tips3:'Stay tuned!'
     }
 };

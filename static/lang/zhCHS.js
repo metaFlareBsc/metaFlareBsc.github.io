@@ -142,7 +142,7 @@ module.exports = {
         noMask:"请使用区块链DApp浏览器打开。",
         accredit:"授权成功！",
         time:"分红倒计时",
-        yu:"请输入100整数倍的USDT",
+        yu:"请输入1000整数倍的USDT",
         tips3:'敬请期待！'
     },
 };
