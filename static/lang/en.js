@@ -46,7 +46,7 @@ module.exports = {
         f_13:'Balance：',
         f_14:'Approve',
         f_15:'Confirm',
-        f_16:'* Note: starting from 100H/s and integer multiples, 1 USDT is equal to 1 H/s computing power, no decimal point.',
+        f_16:'* Note: starting from 1000H/s and integer multiples, 1 USDT is equal to 1 H/s computing power, no decimal point.',
         f_17:'Partners',
         // f_18:'伙伴',
         f_19:' price',
@@ -126,8 +126,8 @@ module.exports = {
         m_13:'White paper',
 
 
-        min:'Minimum 100USDT starting.',
-        max:'A single transaction cannot exceed 5000USDT',
+        min:'Minimum 1000USDT starting.',
+        max:'A single transaction cannot exceed 50000USDT',
         noAccredit:'unauthorized',
         noNum:"The amount cannot be less than 0",
         copySuccee:"Copy successful!",
