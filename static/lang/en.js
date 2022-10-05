@@ -127,7 +127,7 @@ module.exports = {
 
 
         min:'Minimum 1000USDT starting.',
-        max:'A single transaction cannot exceed 50000USDT',
+        max:'A single transaction cannot exceed 20000USDT',
         noAccredit:'unauthorized',
         noNum:"The amount cannot be less than 0",
         copySuccee:"Copy successful!",

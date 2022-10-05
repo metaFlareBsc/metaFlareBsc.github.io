@@ -128,7 +128,7 @@ module.exports = {
 
 
         min:'最低1000USDT起投。',
-        max:'单笔不能超过50000USDT',
+        max:'单笔不能超过20000USDT',
         noAccredit:'未授权',
         noNum:"数额不能小于0",
         copySuccee:"复制成功！",
