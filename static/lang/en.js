@@ -108,6 +108,10 @@ module.exports = {
         f_67:'Total',
         f_68:'piece',
         f_69:'NFT card list',
+        f_70:' Number of NFTS cast / Number of remaining NFTS:',
+        f_71:'*Note: You can cast up to 100 NFTS at a time.',
+        f_72:'Casting NFT',
+        f_73:'Number of casting',
 
 
 
@@ -127,7 +131,7 @@ module.exports = {
 
 
         min:'Minimum 1000USDT starting.',
-        max:'A single transaction cannot exceed 20000USDT',
+        max:'A single account can not exceed 20000 computing power',
         noAccredit:'unauthorized',
         noNum:"The amount cannot be less than 0",
         copySuccee:"Copy successful!",
