@@ -134,7 +134,7 @@ module.exports = {
         m_6:'Chinese',
         m_7:'English',
         m_8:'Blockchain Browser',
-        m_9:'DAO of governance',
+        m_9:'DAO Governance',
         m_10:'Audit report',
         m_11:'About us',
         m_12:'Fans plan',
