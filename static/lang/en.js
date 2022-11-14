@@ -119,12 +119,14 @@ module.exports = {
         f_77_1:'1. New contract goes live to destroy 9 billion Flares, leaving 1 billion left, and will destroy another 500 million when social users reach 1 million!',
         f_77_2:'2. The total amount of NFT was constant 10,000 pieces, and all the unissued 40,000 pieces were destroyed.',
         f_77_3:'3. Previously held Flare user assets will be mapped 1:1, and it is expected to be mapped to the original user wallet address from 12:00:00 on 2022/11/14.',
+        f_77_3_1:'4, synchronization, start a new domain name: https://flarenft.github.io, new domain experience preferred released the latest products and news release.',
         f_77_4:'Thanks for having you, the future world of Meta Flare will be more and more wonderful! Let is create the glory of Web3.0 era together!',
         f_77_5:'The new Flare contract address is:0x6867d4a17f3ff5602024b7c2a33df2fd9aeafcfe',
         f_77_6:'The upgraded waiting function is open, thank you for your trust and support!一 Flare DAO',
         f_78:'Confirming the Upgrade',
         f_79:'You can re-invest at most',
         f_80:'hashrate',
+        f_81:'Please do not upgrade contract consensus, upgrade immediately!',
 
 
         m_1:'Home',
